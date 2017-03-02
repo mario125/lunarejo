@@ -28,7 +28,7 @@
                                   Tradición  heredada de  los  antecesores   espinocinos, festividad navideña  celebrada
                                   por los  cinco anexos del distrito de Juan Espinoza Medrano, Mollebamba, Calcauso, Silco, Vito y Santa Rosa,
                                   con sus distintivos y peculiares vestimentas, cantos, baile,plegaria y
-                                  danza  a la  vez,  atraves  de esta se expresa  la  alegría por el nacimiento  del Niño Jesús,los
+                                  danza  a la  vez,  através  de esta se expresa  la  alegría por el nacimiento  del Niño Jesús,los
                                   danzantes se disfrazan de personajes extraídos de vida misma de  cada  comunidad.La música  se sostiene
                                   únicamente  con los  sonidos  que  emiten las  matracas, sonajas,violín,coro de voces y zapateos.
 
@@ -65,15 +65,15 @@
                      <div class="col-md-12">
                              <h4 style="font-family: 'Nova Slim', cursive;"><b >CORRIDA DE TOROS</b><br></h4>
                              <p >
-                                  <b> La corrida de toros</b> , es una  de las fiestas taurinas  mas reconocidas del  distrito, resaltando la
+                                  <b> La corrida de toros</b> , es una  de las fiestas taurinas  más reconocidas del  distrito, resaltando la
                                    autenticidad y peculiaridad con los mismos relatos  de <b>JOSÉ MARIA ARGUEDAS </b>  en  su obra <b> YAWAR FIESTA  </b> ,
-                                   costumbres netas  de los  lugarenos .<br>
+                                   costumbres netas  de los  lugareños .<br>
                                    Cada  anexo del distrito J.E.M.  acostumbra  celebrar  la  fiesta  taurina en memoria a una  distinguida  virgen: <br>
                                    <b> * virgen Asunción-Mollebamba - 15 de Agosto.</b> <br>
                                    <b> * virgen Candelaria-Silco - 02 de Febrero.  </b>   <br>
                                    <b> * virgen de  las Nieves -Vito - 05 Agosto. </b>  <br>
                                    <b> * virgen del Carmen- Calcauso -16 de Julio.</b>  <br>
-                                   Al son del WAKA TAKI ,WAKA WAkRA , aroma a incienso y fervor de los lugareños   los  ganados  mas  bravos  de  cada
+                                   Al son del WAKA TAKI ,WAKA WAkRA , aroma a incienso y fervor de los lugareños   los  ganados  más  bravos  de  cada
                                    paraje y  ganadería, son recolectados  para el mayordomo y  la  gran fiesta patrimonial.
 
                              </p>
@@ -116,7 +116,7 @@
                                    </ul>
 
                                   </div>
-                                
+
 
 
 
@@ -128,7 +128,7 @@
                        <h4 style="font-family: 'Nova Slim', cursive; font-size:x-large;" ><b >AGUAS TERMALES LAPACA-Mollebamba</b><br></h4>
                        <p >
                         <b>Ubicado al sur este de Mollebamba</b> , estos baños son reconocidos por sus <b>poderes curativos para la artritis,
-                         reumatismo, ciática e infecciones estomacales, etc</b> .Posee  hospedaje, restaurante para los visitantes.<br>
+                         reumatismo, ciática e infecciones estomacales, etc</b>.Posee  hospedaje, restaurante para los visitantes.<br>
                          Lapaca se encuentra  aproximadamente a 13 km. de Mollebamba vía trocha carrozable.
 
                        </p>

@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
       <title>munijem</title>
-      <link href="img/molle.ico" rel="shortcut icon">
+      <link href="img/escudo.png" rel="shortcut icon">
      <link rel="stylesheet" type="text/css" href="css/jquery.lightbox.css">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Fredericka+the+Great|Nova+Slim|Wire+One" rel="stylesheet">
@@ -89,11 +89,11 @@
     <!--_______________________________SOCIAL BAR _________________-->
     <div class="social">
 		<ul>
-			<li><a href="#" target="_blank" class="icon-facebook"></a></li>
-			<li><a href="#" target="_blank" class="icon-twitter"></a></li>
-			<li><a href="#" target="_blank" class="icon-google"></a></li>
+			<li><a href="https://www.facebook.com/Municipalidad-Distrital-Juan-Espinoza-Medrano-1089765261040918/" target="_blank" class="icon-facebook"></a></li>
+			<li><a href="https://twitter.com/muni_jem" target="_blank" class="icon-twitter"></a></li>
+			<!--<li><a href="#" target="_blank" class="icon-google"></a></li>
 			<li><a href="#" target="_blank" class="icon-pinterest"></a></li>
-			<li><a href="#" target="_blank" class="icon-mail"></a></li>
+			<li><a href="#" target="_blank" class="icon-mail"></a></li> -->
 		</ul>
 	</div>
 
@@ -156,9 +156,9 @@
                   <a href="#"><span class="dos icon-area-graph"></span>MUNICIPALIDAD<span class="caret"></span></a>
                   <ul class="children">
                     <li><a href="organigrama.php">ORGANIGRAMA </a></li>
-                    <li><a href="#">REGIDORES </a></li>
-                    <li><a href="#">FUNCIONARIOS </a></li>
-                    <li><a href="#">PERSONAL </a></li>
+                    <li><a href="regidores.php">CONCEJO DISTRITAL </a></li>
+                    <!--<li><a href="#">FUNCIONARIOS </a></li>-->
+                  <!--  <li><a href="#">PERSONAL </a></li>-->
                     <li><a href="mivi.php">MISIÓN Y VISION </a></li>
                   </ul>
                 </li>
@@ -166,7 +166,7 @@
                 <li class="submenu">
                   <a href="#"><span class="tres icon-hand"></span>S. MUNICIPAL<span class="caret"></span></a>
                   <ul class="children">
-                    <li><a href="#">ALBERQUE</a></li>
+                    <li><a href="registrocivil.php">REGISTRO CIVIL</a></li>
                     <li><a href="#">LIMPIEZA PÚBLICA</a></li>
 
                   </ul>
@@ -174,8 +174,8 @@
                 <li class="submenu">
                   <a href="#"><span class="tres icon-hand"></span>OBRAS<span class="caret"></span></a>
                   <ul class="children">
-                    <li><a href="#">OBRA</a></li>
-                    <li><a href="#">OBRA</a></li>
+                    <li><a href="obras.php">VER OBRAS</a></li>
+
 
                   </ul>
                 </li>
