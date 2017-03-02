@@ -138,15 +138,15 @@
 
               <nav>
               <ul>
-                <li><a href="index.php"><span class="uno icon-home"></span>INICIO</a></li>
+                <li><a href="index "><span class="uno icon-home"></span>INICIO</a></li>
 
 
                 <li class="submenu">
                   <a href="#"><span class="siete icon-globe"></span>JUAN. E. MEDRANO<span class="caret"></span></a>
                   <ul class="children">
-                    <li><a href="historia.php">HISTORIA</a></li>
-                    <li><a href="turismo.php">TURISMO</a></li>
-                    <li><a href="informacion.php">INFORMACÓN DEMOGRÁFICA</a></li>
+                    <li><a href="historia ">HISTORIA</a></li>
+                    <li><a href="turismo ">TURISMO</a></li>
+                    <li><a href="informacion ">INFORMACÓN DEMOGRÁFICA</a></li>
 
                   </ul>
                 </li>
@@ -155,26 +155,26 @@
                 <li class="submenu">
                   <a href="#"><span class="dos icon-area-graph"></span>MUNICIPALIDAD<span class="caret"></span></a>
                   <ul class="children">
-                    <li><a href="organigrama.php">ORGANIGRAMA </a></li>
-                    <li><a href="regidores.php">CONCEJO DISTRITAL </a></li>
+                    <li><a href="organigrama ">ORGANIGRAMA </a></li>
+                    <li><a href="regidores ">CONCEJO DISTRITAL </a></li>
                     <!--<li><a href="#">FUNCIONARIOS </a></li>-->
                   <!--  <li><a href="#">PERSONAL </a></li>-->
-                    <li><a href="mivi.php">MISIÓN Y VISION </a></li>
+                    <li><a href="mivi ">MISIÓN Y VISION </a></li>
                   </ul>
                 </li>
 
                 <li class="submenu">
                   <a href="#"><span class="tres icon-hand"></span>S. MUNICIPAL<span class="caret"></span></a>
                   <ul class="children">
-                    <li><a href="registrocivil.php">REGISTRO CIVIL</a></li>
-                    <li><a href="#">LIMPIEZA PÚBLICA</a></li>
+                    <li><a href="registrocivil ">REGISTRO CIVIL</a></li>
+                  <!--  <li><a href="#">LIMPIEZA PÚBLICA</a></li>-->
 
                   </ul>
                 </li>
                 <li class="submenu">
                   <a href="#"><span class="tres icon-hand"></span>OBRAS<span class="caret"></span></a>
                   <ul class="children">
-                    <li><a href="obras.php">VER OBRAS</a></li>
+                    <li><a href="obras ">VER OBRAS</a></li>
 
 
                   </ul>
@@ -184,9 +184,9 @@
                 <li class="submenu">
                   <a href="#"><span class="seis icon-light-up"></span>TRANSPARENCIA<span class="caret"></span></a>
                   <ul class="children">
-                    <li><a href="#">P. DE TRANSPARENCIA</a></li>
-                    <li><a href="#">NORMAS MUNICIPALES</a></li>
-                    <li><a href="#">AGENDA DEL ALCALDE</a></li>
+                  <!--  <li><a href="#">P. DE TRANSPARENCIA</a></li>
+                    <li><a href="#">NORMAS MUNICIPALES</a></li>-->
+                    <li><a href="micalendario ">AGENDA DEL ALCALDE</a></li>
 
                   </ul>
                 </li>
