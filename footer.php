@@ -81,7 +81,7 @@
          <a   target="_blank" href="#"><span class="seis icon-instagram"  style="font-size: 40px; color:rgb(255, 247, 247);"></span></a>
          </br></div>
         <div class="col-md-2">
-          <a   target="_blank" href="#"><span class="seis icon-twitter"   style="font-size: 40px; color:rgb(22, 148, 181);"></span></a>
+          <a   target="_blank" href="https://twitter.com/muni_jem"><span class="seis icon-twitter"   style="font-size: 40px; color:rgb(22, 148, 181);"></span></a>
          </br></div>
         <div class="col-md-2">
          <a   target="_blank" href="https://www.youtube.com/channel/UCEl-C_Diy6rhagGX6xjTY4Q"><span class="seis icon-youtube"  style="font-size: 40px; color:rgb(164, 23, 23);"></span></a>

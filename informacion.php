@@ -52,13 +52,13 @@
        <div class="col-md-12">
          <div class="col-md-6" style="text-align:center;">
 
-           <img src="img/e4.png" alt="">
+           <img src="img/e25.png" alt="">
            <h3 style=" text-align:center;  font-family: 'Wire One', sans-serif;"> ESCUDO</h3>
 
          </div>
          <div class="col-md-6" style="text-align:center;">
 
-           <img src="img/e4.png" alt="">
+           <img src="img/bandera.png" alt="" style="width: 300px;   height:300px ;">
              <h3 style=" text-align:center;  font-family: 'Wire One', sans-serif;"> BANDERA</h3>
 
          </div>

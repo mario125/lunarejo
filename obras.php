@@ -12,7 +12,7 @@
   <div class="row">
 
     <div class="col-m-12 " style="margin:15px;padding:15px;  border-radius:5px;background-color:rgb(14,138,16); ">
-      <h3 style="color:rgb(235, 233, 35); text-align:center;  font-family: 'Wire One', sans-serif;">OBRAS A NIVEL DISTRITAL JUAN ESPINOZA MEDRANO</h3>
+      <h3 style="color:rgb(235, 233, 35); text-align:center;  font-family: 'Wire One', sans-serif;">OBRAS </h3>
     </div>
     <!--_________________SIDEBAR_______________-->
     <?php include('sidebar.php'); ?>
