@@ -1,42 +1,17 @@
 <?php
 
-/**
-**
-**  BY iCODEART
-**
-**********************************************************************
-**                      REDES SOCIALES                            ****
-**********************************************************************
-**                                                                ****
-** FACEBOOK: https://www.facebook.com/icodeart                    ****
-** TWIITER: https://twitter.com/icodeart                          ****
-** YOUTUBE: https://www.youtube.com/c/icodeartdeveloper           ****
-** GITHUB: https://github.com/icodeart                            ****
-** TELEGRAM: https://telegram.me/icodeart                         ****
-** EMAIL: info@icodeart.com                                       ****
-**                                                                ****
-**********************************************************************
-**********************************************************************
-**/
+$conexion = mysqli_connect("localhost", "root", "", "eventos");
 
-// Datos de conexion a la base de datos
-$servidor='localhost';
-$usuario='root';
-$pass='';
-$bd='eventos';
-
-// Nos conectamos a la base de datos
-$conexion = new mysqli($servidor, $usuario, $pass, $bd);	
-
-// Definimos que nuestros datos vengan en utf8
-$conexion->set_charset('utf8');
-
-// verificamos si hubo algun error y lo mostramos
-if ($conexion->connect_errno) {
-	echo "Error al conectar la base de datos {$conexion->connect_errno}";
+if (!$conexion) {
+    echo "Error: No se pudo conectar a MySQL." . PHP_EOL;
+    echo "errno de depuración: " . mysqli_connect_errno() . PHP_EOL;
+    echo "error de depuración: " . mysqli_connect_error() . PHP_EOL;
+    exit;
 }
 
-// Url donde estara el proyecto, debe terminar con un "/" al final
+echo "Éxito: Se realizó una conexión apropiada a MySQL! La base de datos mi_bd es genial." . PHP_EOL;
+echo "Información del host: " . mysqli_get_host_info($enlace) . PHP_EOL;
+
 $base_url="http://localhost/calendario/";
 
 ?>

@@ -223,6 +223,7 @@ if (isset($_POST['from']))
                 var dd  = (date.getDate()).toString().length == 1 ? "0"+(date.getDate()).toString() : (date.getDate()).toString();
 
                 //establecemos los valores del calendario
+
                 var options = {
 
                     // definimos que los eventos se mostraran en ventana modal
@@ -289,7 +290,7 @@ if (isset($_POST['from']))
                                 }
                         }
                 };
-
+               alert(options);
 
                 // id del div donde se mostrara el calendario
                 var calendar = $('#calendar').calendar(options);
