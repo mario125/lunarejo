@@ -15,6 +15,7 @@
      <link rel="stylesheet" href="css/icon.css" ><!-- MATERIAL ICON-->
      <link rel="stylesheet" href="css/bootstrap.css" ><!-- MATERIAL ICON-->
      <link href='https://fonts.googleapis.com/css?family=Codystar' rel='stylesheet' type='text/css'> <!-- CSS  LETRA PUNTICOS -->
+     <link href="https://fonts.googleapis.com/css?family=Parisienne" rel="stylesheet">
       <!--_____________________________JS______________________________-->
      <script src="js/jquery-latest.js"></script>      <!-- JS PARA MENU-->
      <script src="js/main.js"></script>                                   <!-- JS PARA MENU-->
@@ -78,6 +79,62 @@
         background: rgb(24,163,67);
       }
 
+
+.f:hover {
+  background: #1333bd;
+  background-image: -webkit-linear-gradient(top, #1333bd, #1333bd);
+  background-image: -moz-linear-gradient(top, #1333bd, #1333bd);
+  background-image: -ms-linear-gradient(top, #1333bd, #1333bd);
+  background-image: -o-linear-gradient(top, #1333bd, #1333bd);
+  background-image: linear-gradient(to bottom, #1333bd, #1333bd);
+  text-decoration: none;
+}
+.f2{
+  color: rgb(12,36,210);
+
+}
+.f2:hover {
+  color: #fafbff;
+
+}
+
+.t.{
+  background-color: rgb(255,255,255);
+}
+.t:hover {
+  background: #17ded2;
+  background-image: -webkit-linear-gradient(top, #17ded2, #17ded2);
+  background-image: -moz-linear-gradient(top, #17ded2, #17ded2);
+  background-image: -ms-linear-gradient(top, #17ded2, #17ded2);
+  background-image: -o-linear-gradient(top, #17ded2, #17ded2);
+  background-image: linear-gradient(to bottom, #17ded2, #17ded2);
+  text-decoration: none;
+}
+.t2{
+  color: #17ded2;
+}
+.t2:hover {
+  color: #fafbff;
+
+}
+
+.y:hover {
+  background: #de1d17;
+  background-image: -webkit-linear-gradient(top, #de1d17, #de1d17);
+  background-image: -moz-linear-gradient(top, #de1d17, #de1d17);
+  background-image: -ms-linear-gradient(top, #de1d17, #de1d17);
+  background-image: -o-linear-gradient(top, #de1d17, #de1d17);
+  background-image: linear-gradient(to bottom, #de1d17, #de1d17);
+  text-decoration: none;
+}
+.y2{
+  color: #de1d17;
+}
+.y2:hover {
+  color: #fafbff;
+
+}
+
       </style>
 
 
@@ -85,6 +142,8 @@
 
   </head>
   <body style="background-image: url(img/back.png); background-repeat: repeat;">
+
+
 
     <!--_______________________________SOCIAL BAR _________________-->
     <div class="social">

@@ -8,56 +8,54 @@
     <!--_________________CONTENIDO_______________-->
     <div class="col-md-8" style="text-align: justify; font-size:x-large; font-family: 'Open Sans Condensed', sans-serif;  ">
        <div class="row" style="">
-               <h3 style="font-family: 'Fredericka the Great', cursive; text-align:center;"><b></b></h3>
-        <!--       <div class="col-md-12">
+
+               <div class="col-md-12">
+                 <center>
+                   <h2><b>ROBERTO HUAMANÌ MENESES </b></h2>
+                   <h4>ALCALDE DEL DISTRITO DE JUAN ESPINOZA MEDRANO </h4>
+                   <h5>ANTABAMBA – APURIMAC</h5>
+                 </center>
+                 <br>
+                 <br>
+                 <h4><b>A sus conciudadanos:</b></h4>
 
                        <p >
-                            La <b> huaylía</b> es una danza, que conmemora la <b>fiesta navideña</b> , tradición religiosa  que
-                            resulta de la fusión  de la cultura española y quechua. <br>
-                            Tradición  heredada de  los  antecesores   espinocinos, festividad navideña  celebrada
-                            por los  cinco anexos del distrito d Juan Espinoza Medrano, Mollebamba, Calcauso, Silco, Vito y Santa Rosa,
-                            con sus distintivos y peculiares vestimentas, cantos, baile,plegaria y
-                            danza  a la  vez,  atraves  de esta se expresa  la  alegría por el nacimiento  del Niño Jesús,los
-                            danzantes se disfrazan de personajes extraídos de vida misma de   cada  comunidad.La música  se sostiene
-                            únicamente  con los  sonidos  que  emiten las  matracas, sonajas,violín,coro de voces y zapateos.
+
+                         Al asumir esta gran responsabilidad en el distrito de <b>Juan Espinoza Medrano</b>, me
+                        <!-- <div class="col-md-8">
+                           <ul class="gallery">
+                           <a href="img/dis.png" class="img-responsive"><img src="img/dis.png" alt="" class="img-responsive" style="display: block; margin-left: auto; margin-right: auto; border-radius:5px;"></a>
+                          </ul>
+
+                        </div> -->
+                         puse como objetivo, de encaminar de modo decidido,
+
+
+                          por el sendero que nos lleve a un desarrollo sostenible, porque esta es la aspiración legítima de este importante e histórico distrito
+                          y elevar la calidad de vida de cada uno de sus habitantes. Sé que con voluntad, esfuerzo, sacrificio y dedicación, se puede lograr, lo
+                          que por años ha esperado esta cuna del Gran Ilustre <b>“El Lunarejo”</b>; convertirla en un distrito moderno, pujante, próspero y visionario.<br>
+                        </p>
+
+                        <p>
+
+                          El avance  tal vez sea silenciosa, pero no por ello menos intensa; en cada una de nuestras caminatas, junto a sus miembros de consejo municipal,
+                           el equipo de trabajo y de la mano con sus vecinos y vecinas, se viene percibiendo la esperanza de un mañana mejor, esta aptitud, nos permitirá hacer
+                            de este reto una realidad. El apoyo y confianza de cada uno de ustedes me permitió ocupar el sillón municipal, cargo que me honra y que asumo con
+                            la mayor responsabilidad y agradecimiento.<br>
+                             Mi compromiso es con todos: la niñez y la juventud ávidos de un futuro mejor, las madres forjadoras de los valores, nuestros campesinos que día a
+                             día hacen parir nuestra madre tierra, mi compromiso con nuestros adultos mayores que tanto dieron por su distrito,  con los vecinos que un día partieron
+                              a diferentes latitudes en busca de un porvenir prospero. <br>De la mano con los espinocinos y las espinocinas incluso recuperaremos los principales objetivos
+                               que hayamos perdido. Tal vez no sea posible, si no se hace con esfuerzo y la confianza que mucha falta hace;<b> Juan Espinoza Medrano es un distrito
+                               con habitantes sabios y unidos </b>, no en vano es heredero del<b> Primer Crítico Literario de Sudamérica “El Lunarejo”</b>. El camino es largo y difícil,
+                               pero posible de lograr; <b>desde el primer día venimos trabajando por colocar a Juan Espinoza Medrano entre los distritos más importantes de Apurímac</b>.
+
 
                        </p>
+                       <center>
+                       <h4 style="font-family: 'Parisienne', cursive; color:rgb(10,185,38)"> Juan Espinoza Medrano avanza… <br>su gente lo hace.</h4>
 
+                       </center>
 
-
-               </div> -->
-
-       </div>
-
-       <div class="row" style="">
-               <h3 style="font-family: 'Fredericka the Great', cursive; text-align:center;"><b>REDES SOCIALES</b></h3>
-               <div class="col-md-12">
-                 <div class="col-md-12">
-                   <p style="font-size:40px; color:rgb(22, 40, 156);" ><span class="seis icon-facebook"  ></span>Facebook</p>
-                   <div id="fb-root"></div>
-                      <script>(function(d, s, id) {
-                        var js, fjs = d.getElementsByTagName(s)[0];
-                        if (d.getElementById(id)) return;
-                        js = d.createElement(s); js.id = id;
-                        js.src = "//connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v2.8&appId=465930763618261";
-                        fjs.parentNode.insertBefore(js, fjs);
-                      }(document, 'script', 'facebook-jssdk'));</script>
-                   <div class="fb-comments" data-href="https://www.facebook.com/Municipalidad-Distrital-Juan-Espinoza-Medrano-1089765261040918/?fref=ts" data-width="100%" data-numposts="20"></div>
-
-
-                 </div>
-                 <div class="col-md-12">
-                   <p style="font-size:40px; color:rgb(43, 190, 199);"><span class="seis icon-twitter"   ></span>Twitter</p>
-                   <a href="https://twitter.com/intent/tweet?screen_name=muni_jem" class="twitter-mention-button" data-show-count="false">Tweet to @muni_jem</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-                   <a class="twitter-timeline" href="https://twitter.com/muni_jem">Tweets by muni_jem</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-                 </div>
-                 <div class="col-md-12">
-
-                   <p style="font-size:40px; color:rgb(164, 23, 23);"><span class="seis icon-youtube"   ></span>Youtube</p>
-                   <iframe width="100%" height="315" src="https://www.youtube.com/embed/kETRaKC7ZCI" frameborder="0" allowfullscreen></iframe>
-                   <iframe width="100%" height="315" src="https://www.youtube.com/embed/PU3kcv3maT0" frameborder="0" allowfullscreen></iframe>
-                   <iframe width="100%" height="315" src="https://www.youtube.com/embed/bn5PzOqKQRA" frameborder="0" allowfullscreen></iframe>
-                 </div>
 
 
 
@@ -66,6 +64,8 @@
                </div>
 
        </div>
+
+
 
     </div>
 
