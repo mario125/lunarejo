@@ -15,24 +15,27 @@
 
  </div>
  <br>
- <br>
+ <hr>
+
 <div class="row">
   <div class="album" style="">
-    <a href="micalendario.php"  class="btn " style="width:100%;   height: 130px;background-color:rgb(26,166,40); "> <br><b class="cal" style="text-align:center; font-family: 'Nova Slim', cursive;  font-size: 20px; "> VER CALENDARIO MUNICIPAL </b> </a>
+    <a href="micalendario"  class="btn " style="width:100%;   height: 130px;background-color:rgb(26,166,40); "> <br><b class="cal" style="text-align:center; font-family: 'Nova Slim', cursive;  font-size: 20px; "> VER CALENDARIO MUNICIPAL </b> </a>
   </div>
 
 </div>
-<br>
-<br>
+
+<hr>
+
+
 <center>
 <div class="row col-md-offset-0 ">
 
 
-  <ul class="nav nav-tabs" role="tablist">
-  <li style="background-color:rgb(202,204,209) "role="presentation" class="active"><a  style="height: 50px;"class="f" href="#seccion1" aria-controls="" data-toggle="tab" role="tab"><p class="f2"style="font-size:35px;" ><span class=" seis icon-facebook"  ></span></p></a></li>
-  <li style="background-color:rgb(202,204,209);"role="presentation"><a  style="height: 50px;"class="t" href="#seccion2" aria-controls="" data-toggle="tab" role="tab"><p class="t2" style="font-size:35px; "><span class="seis icon-twitter"   ></span></p></a></li>
-  <li style="background-color:rgb(202,204,209);"role="presentation"><a  style="height: 50px;"class="y" href="#seccion3" aria-controls="" data-toggle="tab" role="tab"><p class="y2" style="font-size:35px; "><span class="seis icon-youtube"   ></span></p></a></li>
-</ul>
+  <ul class="nav nav-tabs" role="tablist" style="height: 100%;">
+  <li style="background-color:rgb(202,204,209); width: 33%; "role="presentation" class="active"><a  style="height: 50px;"class="f" href="#seccion1" aria-controls="" data-toggle="tab" role="tab"><p class="f2"style="font-size:35px;" ><span class=" seis icon-facebook"  ></span></p></a></li>
+  <li style="background-color:rgb(202,204,209); width: 33%; ;"role="presentation"><a  style="height: 50px;"class="t" href="#seccion2" aria-controls="" data-toggle="tab" role="tab"><p class="t2" style="font-size:35px; "><span class="seis icon-twitter"   ></span></p></a></li>
+  <li style="background-color:rgb(202,204,209); width: 33%; ;"role="presentation"><a  style="height: 50px;"class="y" href="#seccion3" aria-controls="" data-toggle="tab" role="tab"><p class="y2" style="font-size:35px; "><span class="seis icon-youtube"   ></span></p></a></li>
+ </ul>
 
 
 <div class="tab-content" style="background-color: rgba(255,255,255,.94); 	border-radius: 1em;">
@@ -88,14 +91,14 @@
 
 </div>
 </center>
+<hr>
 
 <div class="row">
   <div class="album">
 
         <div id="cale" ></div>
 
-          <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-        <script src="js/jquery-ui-datepicker.min.js"></script>
+
         <script>
         	$('#cale').datepicker({
         		inline: true,
@@ -140,6 +143,7 @@
 
          </div>
 </div>
+<hr>
 
 
 </div>

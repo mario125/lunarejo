@@ -1,0 +1,85 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+
+	<link rel="stylesheet" href="css/bootstrap.css" ><!-- MATERIAL ICON-->
+
+	<style type="text/css">
+
+		.modal-lg {
+			width: 600px !important;
+		}
+
+		@media (max-width: 767px){
+			.modal-lg {
+				width: 96% !important;
+			}
+		}
+
+	</style>
+</head>
+<body>
+
+
+
+
+  <script src="js/jquery-1.11.3.min.js"></script>
+
+  <script src="js/bootstrap.min.js"></script>
+
+
+<script type="text/javascript">
+
+
+function centerModal() {
+    $(this).css('display', 'block');
+    var $dialog = $(this).find(".modal-dialog");
+    var offset = ($(window).height() - $dialog.height()) / 2;
+    // Center modal vertically in window
+    $dialog.css("margin-top", offset);
+}
+
+$('.modal').on('show.bs.modal', centerModal);
+$(window).on("resize", function () {
+    $('.modal:visible').each(centerModal);
+});
+</script>	<script type="text/javascript">
+	$(document).ready(function(){
+		$('.modal').modal('show');
+	});
+	</script>
+	<!-- ####################################################################################################################### -->
+	<!-- CENTRO DE POP UPS -->
+	<!-- ####################################################################################################################### -->
+	<div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+		<div class="modal-dialog modal-lg">
+			<div class="modal-content">
+				<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+					<!-- Wrapper for slides -->
+					<div class="carousel-inner">
+						<div class="item active">
+              <a href="http://www.miraflores.gob.pe/_contenTempl3.php?idcontenido=10183" target="_self">
+              <img src="http://www.miraflores.gob.pe/Gestorw3b/files/img/10186-24472-damnificados.jpg" class="img-responsive">
+            </a>
+          </div>
+          <div class="item">
+            <a href="http://www.miraflores.gob.pe/_contenTempl3.php?idcontenido=10217" target="_self">
+              <img src="http://www.miraflores.gob.pe/Gestorw3b/files/img/10174-24672-atencion_nocturna_(11_de_abril).jpg" class="img-responsive">
+            </a>
+          </div>
+        </div>
+					<!-- Controls -->
+					<a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+						<span class="glyphicon glyphicon-chevron-left"></span>
+					</a>
+					<a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+						<span class="glyphicon glyphicon-chevron-right"></span>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+
+</body>
+</html>

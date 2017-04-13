@@ -6,7 +6,7 @@
     <!--_________________SIDEBAR_______________-->
     <?php include('sidebar.php'); ?>
     <!--_________________CONTENIDO_______________-->
-    <div class="col-md-8" style="text-align: justify; font-size:x-large; font-family: 'Open Sans Condensed', sans-serif;  ">
+    <div class="col-md-8" style="background-color: rgb(255,255,255);  text-align: justify; font-size:x-large; font-family: 'Open Sans Condensed', sans-serif;  ">
        <div class="row" style="">
 
                <div class="col-md-12">

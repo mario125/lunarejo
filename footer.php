@@ -32,35 +32,35 @@
       </br>
       </br>
       <div class="col-md-4 " >
-        <h4 style="text-align:center;font-family: 'Fredericka the Great', cursive;">CONTACTENOS</h4>
+        <h6 style="text-align:center;font-family: 'Fredericka the Great', cursive;">CONTACTENOS</h6>
 
-        <div  style="font-family: 'Wire One', sans-serif;font-seze=12px; padding: 10px 10px 10px 20px;	 ">
-        <font size=6 style="">Teléfono:</font> </br>
-        <font size=6 style="">.......</font></br>
-        <font size=6 style="">Dirección:</font></br>
-        <font size=6 style="">.........</font></br>
+        <div  style="font-family: 'Wire One', sans-serif;font-seze=1px; padding: 10px 10px 10px 20px;	 ">
+        <font size=3 style="">Teléfono:</font> </br>
+        <font size=3 style="">.......</font></br>
+        <font size=3 style="">Dirección:</font></br>
+        <font size=3 style="">.........</font></br>
         </div>
 
       </div>
       <div class="col-md-4 ">
-        <h4 style="text-align:center; font-family: 'Fredericka the Great', cursive;">HORARIO DE ATENCIÓN</h4>
-        <div style="font-family: 'Wire One', sans-serif;font-seze=12px;	padding: 10px 10px 10px 20px; ">
+        <h6 style="text-align:center; font-family: 'Fredericka the Great', cursive;">HORARIO DE ATENCIÓN</h6>
+        <div style="font-family: 'Wire One', sans-serif;font-seze=1px;	padding: 10px 10px 10px 20px; ">
 
-        <font size=6 style="">Lunes a Viernes:</font> </br>
-        <font size=6 style="">8:00am  a  6:00pm</font></br>
-        <font size=6 style="">Sabados:</font></br>
-        <font size=6 style="">8:00am  a 12:30pm</font></br>
+        <font size=3 style="">Lunes a Viernes:</font> </br>
+        <font size=3 style="">8:00am  a  6:00pm</font></br>
+        <font size=3 style="">Sabados:</font></br>
+        <font size=3 style="">8:00am  a 12:30pm</font></br>
         </div>
 
 
       </div>
       <div class="col-md-4 ">
-        <h4 style="text-align:center;font-family: 'Fredericka the Great', cursive;">EMPRESAS MUNICIPALES</h4>
-        <div style="font-family: 'Wire One', sans-serif;font-seze=12px;	padding: 10px 10px 10px 20px;	 ">
-        <font size=6 style="">></font> </br>
-        <font size=6 style="">></font></br>
-        <font size=6 style="">></font></br>
-        <font size=6 style="">></font></br>
+        <h6 style="text-align:center;font-family: 'Fredericka the Great', cursive;">EMPRESAS MUNICIPALES</h6>
+        <div style="font-family: 'Wire One', sans-serif;font-seze=1px;	padding: 10px 10px 10px 20px;	 ">
+        <font size=3 style="">></font> </br>
+        <font size=3 style="">></font></br>
+        <font size=3 style="">></font></br>
+        <font size=3 style="">></font></br>
         </div>
 
 
@@ -101,7 +101,7 @@
     </div>
   </footer>
 
-  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+
   <script>
     // Initiate Lightbox
     $(function() {
@@ -111,7 +111,6 @@
 
   <script type="text/javascript" src="engine1/wowslider.js"></script>
   <script type="text/javascript" src="engine1/script.js"></script>
-
   <script src="js/jquery.lightbox.js"></script>
 
 

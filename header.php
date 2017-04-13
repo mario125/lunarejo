@@ -12,7 +12,7 @@
     <link href="https://fonts.googleapis.com/css?family=Fredericka+the+Great|Nova+Slim|Wire+One" rel="stylesheet">
 
       <!--_____________________________CSS______________________________-->
-     <link rel="stylesheet" href="css/icon.css" ><!-- MATERIAL ICON-->
+    
      <link rel="stylesheet" href="css/bootstrap.css" ><!-- MATERIAL ICON-->
      <link href='https://fonts.googleapis.com/css?family=Codystar' rel='stylesheet' type='text/css'> <!-- CSS  LETRA PUNTICOS -->
      <link href="https://fonts.googleapis.com/css?family=Parisienne" rel="stylesheet">
@@ -44,13 +44,17 @@
         <link rel="stylesheet" href="css/calendar.css">
         <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
         <script type="text/javascript" src="js/es-ES.js"></script>
-        <script src="js/jquery.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+      <script src="js/jquery-ui-datepicker.min.js"></script>
         <script src="js/moment.js"></script>
         <script src="js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="js/jquery-1.11.3.min.js.js"></script>
 
         <script src="js/bootstrap-datetimepicker.js"></script>
         <link rel="stylesheet" href="css/bootstrap-datetimepicker.min.css" />
        <script src="js/bootstrap-datetimepicker.es.js"></script>
+
+
 
 
 
@@ -81,61 +85,102 @@
 
 
 .f:hover {
-  background: #1333bd;
-  background-image: -webkit-linear-gradient(top, #1333bd, #1333bd);
-  background-image: -moz-linear-gradient(top, #1333bd, #1333bd);
-  background-image: -ms-linear-gradient(top, #1333bd, #1333bd);
-  background-image: -o-linear-gradient(top, #1333bd, #1333bd);
-  background-image: linear-gradient(to bottom, #1333bd, #1333bd);
+  background: #000;
+  background-image: -webkit-linear-gradient(top, #000, #000);
+  background-image: -moz-linear-gradient(top, #000, #000);
+  background-image: -ms-linear-gradient(top, #000, #000);
+  background-image: -o-linear-gradient(top, #000, #000);
+  background-image: linear-gradient(to bottom, #000, #000);
   text-decoration: none;
 }
+
 .f2{
-  color: rgb(12,36,210);
+  color: rgb(5,5,5);
 
 }
 .f2:hover {
-  color: #fafbff;
+  color: #d62b3f;
 
 }
 
 .t.{
-  background-color: rgb(255,255,255);
+  width: 80px;
+  height: 55px;
 }
 .t:hover {
-  background: #17ded2;
-  background-image: -webkit-linear-gradient(top, #17ded2, #17ded2);
-  background-image: -moz-linear-gradient(top, #17ded2, #17ded2);
-  background-image: -ms-linear-gradient(top, #17ded2, #17ded2);
-  background-image: -o-linear-gradient(top, #17ded2, #17ded2);
-  background-image: linear-gradient(to bottom, #17ded2, #17ded2);
+  background: #000;
+  background-image: -webkit-linear-gradient(top, #000, #000);
+  background-image: -moz-linear-gradient(top, #000, #000);
+  background-image: -ms-linear-gradient(top, #000, #000);
+  background-image: -o-linear-gradient(top, #000, #000);
+  background-image: linear-gradient(to bottom, #000, #000);
   text-decoration: none;
 }
 .t2{
-  color: #17ded2;
+  color: #010101;
 }
 .t2:hover {
-  color: #fafbff;
+  color: #d62b3f;
 
 }
 
 .y:hover {
-  background: #de1d17;
-  background-image: -webkit-linear-gradient(top, #de1d17, #de1d17);
-  background-image: -moz-linear-gradient(top, #de1d17, #de1d17);
-  background-image: -ms-linear-gradient(top, #de1d17, #de1d17);
-  background-image: -o-linear-gradient(top, #de1d17, #de1d17);
-  background-image: linear-gradient(to bottom, #de1d17, #de1d17);
+  background: #000;
+  background-image: -webkit-linear-gradient(top, #000, #000);
+  background-image: -moz-linear-gradient(top, #000, #000);
+  background-image: -ms-linear-gradient(top, #000, #000);
+  background-image: -o-linear-gradient(top, #000, #000);
+  background-image: linear-gradient(to bottom, #000, #000);
   text-decoration: none;
 }
 .y2{
-  color: #de1d17;
+  color: #0e0c0c;
 }
 .y2:hover {
-  color: #fafbff;
+  color: #d62b3f;
 
 }
 
+
+.u:hover {
+  background: #000; /* Cambiamos el fondo cuando el usuario pase el mouse */
+  padding: 1px 19px; /* Hacemos mas grande el espacio cuando el usuario pase el mouse */
+}
+
+
+
+
+
+
+.l{
+  background-color: rgb(14,15,15);
+}
+.l:hover{
+  background-color: rgb(255,255,255);
+}
+.k{
+  color: rgb(255,255,255);
+}
+.k:hover{
+  background-color: rgb(0,0,0);
+}
       </style>
+
+
+
+  <style type="text/css">
+
+		.modal-lg {
+			width: 600px !important;
+		}
+
+		@media (max-width: 767px){
+			.modal-lg {
+				width: 96% !important;
+			}
+		}
+
+	</style>
 
 
 
@@ -146,15 +191,15 @@
 
 
     <!--_______________________________SOCIAL BAR _________________-->
-    <div class="social">
+  <!--  <div class="social">
 		<ul>
 			<li><a href="https://www.facebook.com/Municipalidad-Distrital-Juan-Espinoza-Medrano-1089765261040918/" target="_blank" class="icon-facebook"></a></li>
 			<li><a href="https://twitter.com/muni_jem" target="_blank" class="icon-twitter"></a></li>
 			<!--<li><a href="#" target="_blank" class="icon-google"></a></li>
 			<li><a href="#" target="_blank" class="icon-pinterest"></a></li>
-			<li><a href="#" target="_blank" class="icon-mail"></a></li> -->
+			<li><a href="#" target="_blank" class="icon-mail"></a></li>
 		</ul>
-	</div>
+	</div>-->
 
     <!--__________________________ CABECERA_________________ -->
   	<div class="container-fluid header">
@@ -233,7 +278,7 @@
                 <li class="submenu">
                   <a href="#"><span class="tres icon-hand"></span>OBRAS<span class="caret"></span></a>
                   <ul class="children">
-                    <li><a href="obras ">VER OBRAS</a></li>
+                    <li><a href="obra ">VER OBRAS</a></li>
 
 
                   </ul>

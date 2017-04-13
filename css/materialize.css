@@ -2587,7 +2587,7 @@ a {
   box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.14), 0 1px 18px 0 rgba(0, 0, 0, 0.12), 0 3px 5px -1px rgba(0, 0, 0, 0.3);
 }
 
-.z-depth-4, .modal {
+.z-depth-4, .mod {
   box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3);
 }
 
@@ -2671,7 +2671,7 @@ video.responsive-video {
 }
 
 .pagination li.active a {
-  color: #fff;
+  color: #5d5b5b;
 }
 
 .pagination li.active {
@@ -5336,7 +5336,7 @@ button.btn-floating {
   z-index: -1;
 }
 
-.modal {
+.mod {
   display: none;
   position: fixed;
   left: 0;
@@ -5352,24 +5352,24 @@ button.btn-floating {
 }
 
 @media only screen and (max-width: 992px) {
-  .modal {
+  .mod {
     width: 80%;
   }
 }
 
-.modal h1, .modal h2, .modal h3, .modal h4 {
+.mod h1, .mod h2, .mod h3, .mod h4 {
   margin-top: 0;
 }
 
-.modal .modal-content {
+.mod .mod-content {
   padding: 24px;
 }
 
-.modal .modal-close {
+.mod .mod-close {
   cursor: pointer;
 }
 
-.modal .modal-footer {
+.mod .mod-footer {
   border-radius: 0 0 2px 2px;
   background-color: #fafafa;
   padding: 4px 6px;
@@ -5377,12 +5377,12 @@ button.btn-floating {
   width: 100%;
 }
 
-.modal .modal-footer .btn, .modal .modal-footer .btn-large, .modal .modal-footer .btn-flat {
+.mod .mod-footer .btn, .mod .mod-footer .btn-large, .mod .mod-footer .btn-flat {
   float: right;
   margin: 6px 0;
 }
 
-.modal-overlay {
+.mod-overlay {
   position: fixed;
   z-index: 999;
   top: -100px;
@@ -5396,12 +5396,12 @@ button.btn-floating {
   will-change: opacity;
 }
 
-.modal.modal-fixed-footer {
+.mod.mod-fixed-footer {
   padding: 0;
   height: 70%;
 }
 
-.modal.modal-fixed-footer .modal-content {
+.mod.mod-fixed-footer .mod-content {
   position: absolute;
   height: calc(100% - 56px);
   max-height: 100%;
@@ -5409,13 +5409,13 @@ button.btn-floating {
   overflow-y: auto;
 }
 
-.modal.modal-fixed-footer .modal-footer {
+.mod.mod-fixed-footer .mod-footer {
   border-top: 1px solid rgba(0, 0, 0, 0.1);
   position: absolute;
   bottom: 0;
 }
 
-.modal.bottom-sheet {
+.mod.bottom-sheet {
   top: auto;
   bottom: -100%;
   margin: 0;

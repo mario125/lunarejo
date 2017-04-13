@@ -1,5 +1,5 @@
 <?php include 'header.php'; ?>
-
+<?php include 'info.php'; ?>
     <!--__________________________ SLIDER_________________ -->
 
 
